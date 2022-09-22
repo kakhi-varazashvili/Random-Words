@@ -8,8 +8,8 @@ var words = document.querySelectorAll(".word");
 
 
 for(var n of words){
-    n.innerHTML = "test";
-    n.style.color = "red"
+    n.innerHTML = "test test";
+    n.style.color = "red";
 
     
 }
