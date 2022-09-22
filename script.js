@@ -8,7 +8,7 @@ var words = document.querySelectorAll(".word");
 
 
 for(var n of words){
-    n.innerHTML = "kakhi";
+    n.innerHTML = "test";
     n.style.color = "red"
 
     
